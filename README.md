@@ -2,11 +2,7 @@
 
 ---
 
-## 🚀 Live Demo
 
-Experience the visualizer live: [**Codeforces Visualizer**](https://cf-visualizer-rho.vercel.app/)
-
----
 
 ## ✨ Overview
 
