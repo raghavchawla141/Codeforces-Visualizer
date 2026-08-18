@@ -14,11 +14,11 @@ export default function Footer() {
         {/* <div className="hidden md:inline">|</div> */}
         <div>
           Built with <span className="text-red-500">♥</span> by{" "}
-          <span className="font-semibold">Shashank Raj</span>{" "}
+          <span className="font-semibold">Raghav Chawla</span>{" "}
         </div>
         {/* <div className="hidden md:inline">|</div> */}
         <a
-          href="https://github.com/shashank2401"
+          href="https://github.com/raghavchawla141"
           className="flex items-center gap-1 text-blue-600 dark:text-blue-400 hover:underline"
           target="_blank"
           rel="noopener noreferrer"
