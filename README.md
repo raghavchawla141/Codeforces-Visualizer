@@ -191,11 +191,7 @@ Found a bug or have a feature request? Please [open an issue](https://github.com
 
 ## 👨‍💻 Author
 
-**Shashank Raj**
-
-## 🤝 Contributor
-
-**Ayush Raghuvanshi** – Helped with performance enhancements and caching strategy
+**Raghav Chawla**
 
 ---
 
